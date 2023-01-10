@@ -5,7 +5,6 @@ import CharacterGrid from "./components/characters/CharacterGrid";
 import "./App.css";
 import Navigation from "./components/ui/Navigation";
 import Search from "./components/ui/Search";
-import Footer from "./components/ui/Footer";
 
 function App() {
   const [items, setItems] = useState([]);
